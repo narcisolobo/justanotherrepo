@@ -1,4 +1,4 @@
-package com.nlobo.ideas.models.controllers;
+package com.nlobo.ideas.controllers;
 
 import com.nlobo.ideas.models.Idea;
 import com.nlobo.ideas.models.User;
@@ -11,7 +11,6 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpSession;
 import javax.validation.Valid;
-import java.util.Comparator;
 import java.util.List;
 
 @Controller

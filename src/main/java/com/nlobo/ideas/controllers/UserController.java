@@ -1,4 +1,4 @@
-package com.nlobo.ideas.models.controllers;
+package com.nlobo.ideas.controllers;
 
 import com.nlobo.ideas.models.User;
 import com.nlobo.ideas.services.UserService;
